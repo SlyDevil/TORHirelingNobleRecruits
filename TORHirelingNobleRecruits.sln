@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TORHirelingNobleRecruits", "TORHirelingNobleRecruits\TORHirelingNobleRecruits.csproj", "{F6876273-6EEE-4C41-9F46-8855F1AE88E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6876273-6EEE-4C41-9F46-8855F1AE88E0}.Debug|x64.ActiveCfg = Debug|x64
+		{F6876273-6EEE-4C41-9F46-8855F1AE88E0}.Debug|x64.Build.0 = Debug|x64
+		{F6876273-6EEE-4C41-9F46-8855F1AE88E0}.Release|x64.ActiveCfg = Release|x64
+		{F6876273-6EEE-4C41-9F46-8855F1AE88E0}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29A55694-271B-4A92-9A87-79D40C411B39}
+	EndGlobalSection
+EndGlobal
